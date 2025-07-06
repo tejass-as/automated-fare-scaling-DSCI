@@ -1,4 +1,4 @@
-# Dynamic Pricing Model for Ride Cost Prediction
+# Automated Fare Scaling System
 
 This project implements a dynamic pricing strategy for ride-sharing services by analyzing historical ride data. It leverages data exploration, cleaning, visualization, correlation analysis, and machine learning to predict adjusted ride costs based on demand and supply factors.
 
