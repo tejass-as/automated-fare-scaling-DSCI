@@ -1,4 +1,4 @@
-# Automated Fare Scaling System
+# Automated Fare Scaling
 
 This project implements a dynamic pricing strategy for ride-sharing services by analyzing historical ride data. It leverages data exploration, cleaning, visualization, correlation analysis, and machine learning to predict adjusted ride costs based on demand and supply factors.
 
